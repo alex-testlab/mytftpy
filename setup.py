@@ -133,20 +133,20 @@ Author:
 Michael P. Soulier <msoulier@digitaltorque.ca>
 """
 
-setup(name='tftpy',
-      version='0.8.0',
+setup(name='mytftpy',
+      version='0.8.1',
       description='Python TFTP library',
       long_description=long_description,
       long_description_content_type='text/plain',
       author='Michael P. Soulier',
       author_email='msoulier@digitaltorque.ca',
-      url='http://github.com/msoulier/tftpy',
-      packages=['tftpy'],
+      url='https://github.com/alex-testlab/mytftpy',
+      packages=['mytftpy'],
       scripts=['bin/tftpy_client.py','bin/tftpy_server.py'],
       project_urls={
           'Documentation': 'http://tftpy.sourceforge.net/sphinx/index.html',
-          'Source': 'https://github.com/msoulier/tftpy/',
-          'Tracker': 'https://github.com/msoulier/tftpy/issues',
+          'Source': 'https://github.com/alex-testlab/mytftpy',
+          'Tracker': 'https://github.com/alex-testlab/mytftpy',
       },
       python_requires='>=2.7',
       classifiers=[
