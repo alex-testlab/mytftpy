@@ -134,14 +134,14 @@ Michael P. Soulier <msoulier@digitaltorque.ca>
 """
 
 setup(name='mytftpy',
-      version='0.8.1',
+      version='0.1',
       description='Python TFTP library',
       long_description=long_description,
       long_description_content_type='text/plain',
       author='Michael P. Soulier',
       author_email='msoulier@digitaltorque.ca',
       url='https://github.com/alex-testlab/mytftpy',
-      packages=['mytftpy'],
+      packages=['tftpy'],
       scripts=['bin/tftpy_client.py','bin/tftpy_server.py'],
       project_urls={
           'Documentation': 'http://tftpy.sourceforge.net/sphinx/index.html',
