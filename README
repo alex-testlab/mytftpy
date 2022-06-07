@@ -1,5 +1,9 @@
 Copyright, Michael P. Soulier, 2010.
 
+About Release 0.8.1:
+====================
+Support Ipv6
+
 About Release 0.8.0:
 ====================
 This version introduces Python 3.X support.

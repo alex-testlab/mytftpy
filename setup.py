@@ -7,6 +7,10 @@ from distutils.core import setup
 long_description = """\
 Copyright, Michael P. Soulier, 2010.
 
+About Release 0.8.1:
+====================
+Support Ipv6
+
 About Release 0.8.0:
 ====================
 This version introduces Python 3.X support.
@@ -134,7 +138,7 @@ Michael P. Soulier <msoulier@digitaltorque.ca>
 """
 
 setup(name='mytftpy',
-      version='0.1',
+      version='0.8.1',
       description='Python TFTP library',
       long_description=long_description,
       long_description_content_type='text/plain',
